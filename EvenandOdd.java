@@ -1,4 +1,4 @@
-public class Main {
+public class EvenandOdd {
 
     public static void main(String[] args) {
         Runnable r1 = new Runnable1();
